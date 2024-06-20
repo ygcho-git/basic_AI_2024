@@ -1,4 +1,4 @@
-품종,발견된섬,부리길이,부리깊이,날개길이,무게,성별
+품종,섬,부리길이,부리깊이,날개길이,무게,성별
 Adelie,Torgersen,39.1,18.7,181,3750,MALE
 Adelie,Torgersen,39.5,17.4,186,3800,FEMALE
 Adelie,Torgersen,40.3,18,195,3250,FEMALE
